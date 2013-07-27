@@ -1,0 +1,51 @@
+table.mystyle
+{
+    border-width: 0 0 1px 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+.mystyle td, .mystyle th
+{
+    margin: 0;
+    padding: 4px;
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+}
+.TRData
+{
+   PADDING-RIGHT: 3px;
+   PADDING-LEFT: 3px;
+   FONT-SIZE: 14px;
+   PADDING-BOTTOM: 3px;
+   COLOR: #000000;
+   PADDING-TOP: 3px;
+   FONT-FAMILY: Book Antiqua;
+}
+.TRHead
+{
+   PADDING-RIGHT: 3px;
+   PADDING-LEFT: 3px;
+   FONT-WEIGHT: bold;
+   FONT-SIZE: 14px;
+   PADDING-BOTTOM: 3px;
+   COLOR: #000000;
+   PADDING-TOP: 3px;
+   FONT-FAMILY: Book Antiqua;
+}
+.TRHead1
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    MARGIN: 5px;
+    HEIGHT: 9px;
+    COLOR: #FFFFFF;
+    PADDING-TOP: 3px;
+    FONT-FAMILY: Book Antiqua;
+    BACKGROUND-COLOR: #AFB2AE;
+    TEXT-ALIGN: left
+}
